@@ -160,13 +160,5 @@ This project demonstrates:
 
 ---
 
-### 🧩 Next Steps (optional improvements)
-- Add `JoinStep3Page` when backend is available  
-- Integrate with Jenkins for CI  
-- Parameterize browser choice (Chrome/Firefox)  
-- Add API-level pre-conditions for blocklist validation  
-
----
-
 **Author:** Ashwin Gavai  
 **Last updated:** November 2025
